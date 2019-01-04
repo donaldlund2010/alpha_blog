@@ -1,0 +1,1 @@
+initialize ActiveRecord::Base.logger
